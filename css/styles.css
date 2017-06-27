@@ -1,6 +1,6 @@
 h1{
-  color: red;
-  font-weight: 800;
+  color: #17870d;
+  font-weight: 400;
 }
 
 h2{
@@ -9,10 +9,10 @@ h2{
 }
 
 p{
-  font-family: sans-serif;
+  font-family: cursive;
 }
 
 ul{
-  font-size: 20px;
-  line-height: 30px;
+  line-height: 50px;
+  font-style: oblique;
 }
