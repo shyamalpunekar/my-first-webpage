@@ -33,4 +33,4 @@ _{Angular JS, Javascript, HTML, CSS.}_
 
 *{This software is licensed under MIT license.}*
 
-Copyright (c) 2017 **_{CoolTech Inc}_**
+Copyright (c)  **_{CoolTech Inc}_**
